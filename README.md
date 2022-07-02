@@ -40,7 +40,7 @@ This project includes some facilities of customers and products search, display,
 ```diff
 - Step 6
 ```
-!)[Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/6.png)
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/6.png)
 
 ```diff
 - Step 7
