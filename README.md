@@ -13,7 +13,7 @@ This project includes some facilities of customers and products search, display,
 ## ADVANTAGES:
 
 - Customer does not have to wait in long queues.
-- It is easy to handle customers records and products records for future use.
+- It is easy to handle customer's records and product's records for future use.
 - This software is quick.
 - Provides username authentication for individual users.
 - Generates proper invoice.
