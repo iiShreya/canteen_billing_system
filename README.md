@@ -25,26 +25,28 @@ This project includes some facilities of customers and products search, display,
 ```diff
 - Step 3
 ```
-
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/3.png)
 
 ```diff
 - Step 4
 ```
-
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/4.png)
 
 ```diff
 - Step 5
 ```
-
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/5.png)
 
 ```diff
 - Step 6
 ```
-
+!)[Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/6.png)
 
 ```diff
 - Step 7
 ```
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/7.png)
+
 
 ## ADVANTAGES:
 
