@@ -1,10 +1,10 @@
 # canteen_billing_system
 It follows the CRUD method:
 ```diff
-@@ C: CREATE
-@@ R: READ
-@@ U: UPDATE
-@@ D: DELETE
++ C: CREATE
++ R: READ
++ U: UPDATE
++ D: DELETE
 ```
 
 ## PROJECT DESCRIPTION:
