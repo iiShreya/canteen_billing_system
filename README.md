@@ -15,12 +15,12 @@ This project includes some facilities of customers and products search, display,
 ```diff
 - Step 1
 ```
-
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/1.png)
 
 ```diff
 - Step 2
 ```
-
+![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/2.png)
 
 ```diff
 - Step 3
@@ -41,6 +41,10 @@ This project includes some facilities of customers and products search, display,
 - Step 6
 ```
 
+
+```diff
+- Step 7
+```
 
 ## ADVANTAGES:
 
