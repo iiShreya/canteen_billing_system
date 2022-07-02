@@ -12,6 +12,34 @@ This project includes some facilities of customers and products search, display,
 
 ## Steps to the Project:
 
+```diff
+- Step 1
+```
+
+```diff
+- Step 2
+```
+
+```diff
+- Step 3
+```
+
+
+```diff
+- Step 4
+```
+
+
+```diff
+- Step 5
+```
+
+
+```diff
+- Step 6
+```
+
+
 ## ADVANTAGES:
 
 - Customer does not have to wait in long queues.
