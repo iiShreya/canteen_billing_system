@@ -15,7 +15,7 @@ This project includes some facilities of customers and products search, display,
 ```diff
 - Step 1
 ```
-![Alt text](https://github.com/iiShreya/canteen_billing_system/blob/master/images/1.png)
+
 
 ```diff
 - Step 2
